@@ -1,0 +1,7 @@
+# Artefatos de compilação Java
+bin/
+*.class
+
+# Metadados do macOS
+.DS_Store
+
